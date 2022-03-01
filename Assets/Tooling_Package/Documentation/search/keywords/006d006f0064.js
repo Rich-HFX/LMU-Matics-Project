@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mod",["Function"],[["ModifyInputAction",,[["Ultraleap.TouchFree.Tooling.InputActionPlugin",,,,0,"File:Scripts/Plugin_System/InputActionPlugin.cs:Ultraleap.TouchFree.Tooling.InputActionPlugin.ModifyInputAction","CSharpClass:Ultraleap.TouchFree.Tooling.InputActionPlugin:ModifyInputAction"]]]]);

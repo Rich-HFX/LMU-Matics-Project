@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tog",["Struct"],[["ToggleablePlugin",,[["Ultraleap.TouchFree.Tooling",,,,0,"File:Scripts/Plugin_System/InputActionManager.cs:Ultraleap.TouchFree.Tooling.ToggleablePlugin","CSharpClass:Ultraleap.TouchFree.Tooling.ToggleablePlugin"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("can",["Constant"],[["CANCEL",,[["Ultraleap.TouchFree.Tooling.InputType",,,,0,"File:Scripts/TouchFreeTypes.cs:Ultraleap.TouchFree.Tooling.InputType.CANCEL"]]]]);

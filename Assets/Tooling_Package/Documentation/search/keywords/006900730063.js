@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isc",["Variable"],[["isCancelled",,[["Ultraleap.TouchFree.Tooling.InputControllers.UnityUIInputController",,,,0,"File:Scripts/InputControllers/UnityUIInputController.cs:Ultraleap.TouchFree.Tooling.InputControllers.UnityUIInputController.isCancelled","CSharpClass:Ultraleap.TouchFree.Tooling.InputControllers.UnityUIInputController:isCancelled"]]]]);

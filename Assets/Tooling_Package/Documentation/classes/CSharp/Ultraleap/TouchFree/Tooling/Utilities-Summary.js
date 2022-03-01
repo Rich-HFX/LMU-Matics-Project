@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:Ultraleap.TouchFree.Tooling.Utilities","Utilities");NDSummary.OnSummaryLoaded("CSharpClass:Ultraleap.TouchFree.Tooling.Utilities",[["C#","CSharp"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[244,0,0,"Utilities"],[245,0,2,"Functions","Functions"],[246,0,1,"MapRangeToRange","MapRangeToRange"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("onc",["Variable"],[["OnConnected",,[["Ultraleap.TouchFree.Tooling.Connection.ConnectionManager",,,,0,"File:Scripts/Connection/ConnectionManager.cs:Ultraleap.TouchFree.Tooling.Connection.ConnectionManager.OnConnected","CSharpClass:Ultraleap.TouchFree.Tooling.Connection.ConnectionManager:OnConnected"]]]]);

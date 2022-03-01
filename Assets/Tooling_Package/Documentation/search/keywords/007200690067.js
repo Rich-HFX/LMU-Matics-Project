@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rig",["Constant"],[["RIGHT",,[["Ultraleap.TouchFree.Tooling.HandChirality",,,,0,"File:Scripts/TouchFreeTypes.cs:Ultraleap.TouchFree.Tooling.HandChirality.RIGHT"]]]]);

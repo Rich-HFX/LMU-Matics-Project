@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ins",["Variable"],[["Instance",,[["Ultraleap.TouchFree.Tooling.InputActionManager",,,,0,"File:Scripts/Plugin_System/InputActionManager.cs:Ultraleap.TouchFree.Tooling.InputActionManager.Instance","CSharpClass:Ultraleap.TouchFree.Tooling.InputActionManager:Instance"]]]]);

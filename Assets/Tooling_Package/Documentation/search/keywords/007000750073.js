@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pus",["Constant"],[["PUSH",,[["Ultraleap.TouchFree.Tooling.InteractionType",,,,0,"File:Scripts/TouchFreeTypes.cs:Ultraleap.TouchFree.Tooling.InteractionType.PUSH"]]]]);

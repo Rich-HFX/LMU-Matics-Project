@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("bit",["Enumeration"],[["BitmaskFlags",,[["Ultraleap.TouchFree.Tooling",,,,0,"File:Scripts/TouchFreeTypes.cs:Ultraleap.TouchFree.Tooling.BitmaskFlags"]]]]);

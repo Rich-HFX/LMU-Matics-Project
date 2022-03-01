@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("nea",["Constant"],[["NEAREST",,[["Ultraleap.TouchFree.Tooling.Configuration.TrackedPosition",,,,0,"File:Scripts/Configuration/ConfigurationTypes.cs:Ultraleap.TouchFree.Tooling.Configuration.TrackedPosition.NEAREST"]]]]);

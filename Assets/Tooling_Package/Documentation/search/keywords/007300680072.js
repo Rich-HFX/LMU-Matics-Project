@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("shr",["Function"],[["ShrinkCursorDot",,[["Ultraleap.TouchFree.Tooling.Cursors.DotCursor",,,,0,"File:Scripts/Cursors/DotCursor.cs:Ultraleap.TouchFree.Tooling.Cursors.DotCursor.ShrinkCursorDot","CSharpClass:Ultraleap.TouchFree.Tooling.Cursors.DotCursor:ShrinkCursorDot"]]]]);

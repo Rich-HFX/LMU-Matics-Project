@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("las",["Variable"],[["lastKnownCursorPosition",,[["Ultraleap.TouchFree.Tooling.Connection.MessageReceiver",,,,0,"File:Scripts/Connection/MessageReceiver.cs:Ultraleap.TouchFree.Tooling.Connection.MessageReceiver.lastKnownCursorPosition","CSharpClass:Ultraleap.TouchFree.Tooling.Connection.MessageReceiver:lastKnownCursorPosition"]]]]);

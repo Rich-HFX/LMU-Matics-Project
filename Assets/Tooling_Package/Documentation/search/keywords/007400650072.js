@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ter",["Property"],[["tertiaryColor",,[["Ultraleap.TouchFree.Tooling.Cursors.TouchlessCursor",,,,0,"File:Scripts/Cursors/TouchlessCursor.cs:Ultraleap.TouchFree.Tooling.Cursors.TouchlessCursor.tertiaryColor","CSharpClass:Ultraleap.TouchFree.Tooling.Cursors.TouchlessCursor:tertiaryColor"]]]]);

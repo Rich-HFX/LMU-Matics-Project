@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dow",["Constant"],[["DOWN",,[["Ultraleap.TouchFree.Tooling.InputType",,,,0,"File:Scripts/TouchFreeTypes.cs:Ultraleap.TouchFree.Tooling.InputType.DOWN"]]]]);

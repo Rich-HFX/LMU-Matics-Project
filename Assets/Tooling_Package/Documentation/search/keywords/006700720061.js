@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("gra",["Constant"],[["GRAB",,[["Ultraleap.TouchFree.Tooling.InteractionType",,,,0,"File:Scripts/TouchFreeTypes.cs:Ultraleap.TouchFree.Tooling.InteractionType.GRAB"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("max",["Variable"],[["maxRingThickness",,[["Ultraleap.TouchFree.Tooling.Cursors.TouchlessCursor",,,,0,"File:Scripts/Cursors/TouchlessCursor.cs:Ultraleap.TouchFree.Tooling.Cursors.TouchlessCursor.maxRingThickness","CSharpClass:Ultraleap.TouchFree.Tooling.Cursors.TouchlessCursor:maxRingThickness"]]]]);

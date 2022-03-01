@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("chi",["Variable"],[["Chirality",,[["Ultraleap.TouchFree.Tooling.InputAction",,,,0,"File:Scripts/TouchFreeTypes.cs:Ultraleap.TouchFree.Tooling.InputAction.Chirality","CSharpClass:Ultraleap.TouchFree.Tooling.InputAction:Chirality"]]]]);

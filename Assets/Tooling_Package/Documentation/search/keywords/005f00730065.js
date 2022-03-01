@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_se",["Variable"],[["_secondaryColor",,[["Ultraleap.TouchFree.Tooling.Cursors.TouchlessCursor",,,,0,"File:Scripts/Cursors/TouchlessCursor.cs:Ultraleap.TouchFree.Tooling.Cursors.TouchlessCursor._secondaryColor","CSharpClass:Ultraleap.TouchFree.Tooling.Cursors.TouchlessCursor:_secondaryColor"]]]]);

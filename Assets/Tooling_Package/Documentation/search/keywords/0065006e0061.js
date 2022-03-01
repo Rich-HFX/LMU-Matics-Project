@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ena",["Variable"],[["enabled",,[["Ultraleap.TouchFree.Tooling.ToggleablePlugin",,,,0,"File:Scripts/Plugin_System/InputActionManager.cs:Ultraleap.TouchFree.Tooling.ToggleablePlugin.enabled","CSharpClass:Ultraleap.TouchFree.Tooling.ToggleablePlugin:enabled"]]]]);

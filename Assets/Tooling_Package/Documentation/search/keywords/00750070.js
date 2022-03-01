@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("up",["Constant"],[["UP",,[["Ultraleap.TouchFree.Tooling.InputType",,,,0,"File:Scripts/TouchFreeTypes.cs:Ultraleap.TouchFree.Tooling.InputType.UP"]]]]);

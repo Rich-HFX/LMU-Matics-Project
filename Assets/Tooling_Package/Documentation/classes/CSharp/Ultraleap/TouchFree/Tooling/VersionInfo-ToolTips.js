@@ -1,0 +1,1 @@
+﻿NDContentPage.OnToolTipsLoaded({291:"<div class=\"NDToolTip TVariable LCSharp\"><div id=\"NDPrototype291\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public static readonly</span> Version ApiVersion</div></div><div class=\"TTSummary\">The current API version of the Tooling.</div></div>"});

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fla",["Class"],[["FlagUtilities",,[["Ultraleap.TouchFree.Tooling",,,,0,"File:Scripts/TouchFreeTypes.cs:Ultraleap.TouchFree.Tooling.FlagUtilities","CSharpClass:Ultraleap.TouchFree.Tooling.FlagUtilities"]]]]);

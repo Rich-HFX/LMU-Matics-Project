@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cli",["Constant"],[["CLIENT_OUTDATED",,[["Ultraleap.TouchFree.Tooling.Connection.Compatibility",,,,0,"File:Scripts/Connection/TouchFreeServiceTypes.cs:Ultraleap.TouchFree.Tooling.Connection.Compatibility.CLIENT_OUTDATED"]]]]);

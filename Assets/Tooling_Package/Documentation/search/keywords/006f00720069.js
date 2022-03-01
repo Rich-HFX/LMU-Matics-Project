@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ori",["Variable"],[["originalRequest",,[["Ultraleap.TouchFree.Tooling.Connection.WebSocketResponse",,,,0,"File:Scripts/Connection/TouchFreeServiceTypes.cs:Ultraleap.TouchFree.Tooling.Connection.WebSocketResponse.originalRequest","CSharpClass:Ultraleap.TouchFree.Tooling.Connection.WebSocketResponse:originalRequest"]]]]);

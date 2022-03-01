@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ist",["Variable"],[["isTouching",,[["Ultraleap.TouchFree.Tooling.InputControllers.UnityUIInputController",,,,0,"File:Scripts/InputControllers/UnityUIInputController.cs:Ultraleap.TouchFree.Tooling.InputControllers.UnityUIInputController.isTouching","CSharpClass:Ultraleap.TouchFree.Tooling.InputControllers.UnityUIInputController:isTouching"]]]]);
